@@ -51,30 +51,6 @@ if __name__ == "__main__":
 
 <br />
 
-Projects 📦
------------
-
-- #### <a href="https://github.com/Next-Flip/Momentum-Firmware"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/Momentum-Firmware?label=Momentum-Firmware&style=for-the-badge&labelColor=7771DB&color=222222"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware
-
-- #### <a href="https://github.com/WillyJL/MemSed"><img align="center" src="https://img.shields.io/github/v/release/WillyJL/MemSed?label=MemSed&style=for-the-badge&labelColor=3377B0&color=222222"></a> :&nbsp; MEMory Search and EDit for Linux, inspired by Cheat Engine
-
-- #### <a href="https://github.com/WillyJL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
-
-- #### <a href="https://github.com/WillyJL/Qubes-Scripts"><img align="center" src="https://img.shields.io/badge/-Qubes--Scripts-02ACD6?style=for-the-badge"></a> :&nbsp; Collection of custom scripts for Qubes OS
-
-- #### <a href="https://github.com/ohitstom/spicetify-easyinstall"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/spicetify-easyinstall?label=Spicetify-EasyInstall&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; An open source installer for Spicetify - I did the GUI and the build workflows
-
-- #### <a href="https://github.com/WillyJL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/WillyJL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller app for Windows
-
-- #### <a href="https://github.com/WillyJL/iOS-Mount"><img align="center" src="https://img.shields.io/badge/-iOS--Mount-02C68C?style=for-the-badge"></a> :&nbsp; Utility to mount iOS photos and apps on linux, built around ifuse
-
-- #### <a href="https://github.com/WillyJL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Discord bot for the Cyberpunk 2077 modding servers
-
-- #### <a href="https://github.com/WillyJL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Discord bot that allows animated emojis without Nitro
-
-- #### <a href="https://willyjl.dev"><img align="center" src="https://img.shields.io/badge/-willyjl.dev-0066FF?style=for-the-badge"></a> :&nbsp; My personal website
-
-<br />
 
 Languages 💾
 ------------
