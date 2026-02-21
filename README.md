@@ -80,6 +80,8 @@ My Specs 💻
 Get in Touch 📡
 ---------------
 
-[![Discord](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%20%E2%81%A0willyjl%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
-[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0WillyJL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/titanleg1t)\
-[![Guns.lol](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2FWillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)]([https://guns.lol/ti7])
+[![Discord](https://img.shields.io/badge/-TITAN-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/DEINE_ID)
+
+[![GitHub](https://img.shields.io/badge/-TitanLeg1t-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/titanleg1t)
+
+[![Guns.lol](https://img.shields.io/badge/-guns.lol%2Fti7-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://guns.lol/ti7)
