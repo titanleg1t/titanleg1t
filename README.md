@@ -74,9 +74,8 @@ Tools 🛠️
 My Specs 💻
 -----------
 
-![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=2288FF)
-[![CPU](https://img.shields.io/badge/-Core_i5_9600K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://www.amd.com/en/products/cpu/I9-129000F#product-specs)
-[![GPU](https://img.shields.io/badge/-Radeon_RX_7800_XT-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/RTX-4080#product-specs)
+[![CPU](https://img.shields.io/badge/-Core_i9_12900F-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900f-processor-30m-cache-up-to-5-10-ghz/specifications.html)
+[![GPU](https://img.shields.io/badge/-GeForce_RTX_4080-333333?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/)
 
 Get in Touch 📡
 ---------------
