@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm TITAN<3</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>Builder of random projects</b> <i>and</i> <b>Python Enjoyer</b>
+    <i>Just a</i> <b>Builder of random projects</b> <i>and</i> <b>Python Enjoyer</b>
     <br />
     <br />
 <!--     <a href="https://hits.seeyoufarm.com/">
