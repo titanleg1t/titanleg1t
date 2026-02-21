@@ -9,24 +9,6 @@
     <a href="https://github.com/STRRL/serverless-github-badges">
         <img src="https://badges.strrl.dev/years/titanleg1t?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/titanleg1t?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
-    </a>
-    <br />
-    <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/contributions/yearly/titanleg1t?style=flat&labelColor=333333&logoColor=E7E7E7&color=BA4AB9&label=Yearly%20Contributions&logo=github" />
-    </a>
-    <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/contributions/all/titanleg1t?style=flat&labelColor=333333&logoColor=E7E7E7&color=E96F24&label=All%20Contributions&logo=github" />
-    </a>
-    <br />
-    <a href="#">
-        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
-</p>
 
 <br />
 
@@ -80,6 +62,6 @@ My Specs 💻
 Get in Touch 📡
 ---------------
 
-[![Discord](https://img.shields.io/badge/-TITAN-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/DEINE_ID)
+[![Discord](https://img.shields.io/badge/-TITAN-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/1449430115300933876)
 [![GitHub](https://img.shields.io/badge/-TitanLeg1t-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/titanleg1t)
 [![Guns.lol](https://img.shields.io/badge/-guns.lol%2Fti7-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://guns.lol/ti7)
