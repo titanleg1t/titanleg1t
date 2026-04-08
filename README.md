@@ -22,7 +22,6 @@ class AboutMe():
         self.username = "titanleg1t"
         self.pronouns = ("he", "him")
         self.location = "Germany"
-        self.occupation = "Waiting to die"
         self.hobbies = ["Building", "Gaming", "Music"]
         self.interests = ["Programming", "Sub-Ghz", "Open Source", "Cyber Security"]
         self.ownership = ["TITAN SERVICE", "CrystalSMM"]
